@@ -1,0 +1,4 @@
+{
+    "debug.javascript.usePreview": false, // or true
+    "debug.node.autoAttach": "on"
+}
